@@ -35,7 +35,7 @@ set "customizeExplorer=true"
 ::###############################################
 :: DO NOT MODIFY
 ::###############################################
-set nppPath=C:\Users\%user%\AppData\Roaming\Notepad++\test
+set nppPath=C:\Users\%user%\AppData\Roaming\Notepad++
 ::###############################################
 echo Customizing environment for:
 echo User: %user%
